@@ -1,0 +1,14 @@
+.about {
+  padding-inline: 1.5rem;
+}
+
+.about h6 {
+  font-weight: 600;
+  margin: 1.3rem auto .2rem auto;
+}
+
+.about p {
+  font-size: .44rem;
+  font-weight: 200;
+  line-height: .65rem;
+}

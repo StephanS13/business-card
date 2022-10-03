@@ -1,0 +1,14 @@
+.interests {
+  padding-inline: 1.5rem;
+}
+
+.interests h6 {
+  font-weight: 600;
+  margin: .8rem auto .2rem auto;
+}
+
+.interests p {
+  font-size: .44rem;
+  font-weight: 200;
+  line-height: .65rem;
+}

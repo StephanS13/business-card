@@ -1,0 +1,46 @@
+.avatar {
+  width: 100%;
+  height: 39vh;
+  object-fit: cover;
+  border-radius: .3rem .3rem 0 0;
+}
+
+.info--wrap {
+  text-align: center;
+}
+
+.name {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: .6rem;
+}
+
+.specialty {
+  font-size: .56rem;
+  font-weight: 300;
+  color: #F3BF99;
+  margin-top: .15rem;
+}
+
+.portfolio--address {
+  font-size: .45rem;
+  font-weight: 200;
+  margin-top: .3rem;
+}
+
+.button {
+  color: #1A1B21;
+  font-size: .6rem;
+  font-weight: 600;
+  padding: .28rem 4.5rem;
+  border-radius: .2rem;
+  border: none;
+  margin-top: .75rem;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.button:hover {
+  background-color: #F3BF99;
+  color: rgb(54, 54, 54);
+}
